@@ -17,15 +17,15 @@ Aplikasi Android berbasis **Kotlin** yang dirancang untuk mempermudah proses pen
 - **Kotlin**: Bahasa pemrograman utama untuk pengembangan aplikasi Android.
 - **Android Studio**: Lingkungan pengembangan terintegrasi (IDE) untuk Android.
 - **Firebase Realtime Database**: Basis data real-time untuk penyimpanan dan sinkronisasi data.
-- **Firebase Authentication**: Layanan autentikasi pengguna.
 - **Material Design**: Desain antarmuka pengguna yang modern dan responsif.
 
 ## 📸 Tangkapan Layar
 
 ![Dashboard](SSDashboard3.png)
 ![Form Donasi](SSFormDonasi.png)
-![Riwayat Donasi](SSRiwayatDonasi.png)
 ![Popup Donasi Berhasil](SSPopupDonasiBerhasil.png)
+![Riwayat Donasi](SSRiwayatDonasi.png)
+![Firebase](SSFirebase.png)
 
 ## ⚙️ Instalasi dan Penggunaan
 
