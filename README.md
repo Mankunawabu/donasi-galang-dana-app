@@ -59,10 +59,10 @@ Aplikasi Android berbasis **Kotlin** yang dirancang untuk mempermudah proses pen
 
   - Klik "Run" untuk menjalankan aplikasi.
 
-🤝 Kontribusi
+## 🤝 Kontribusi
 Kontribusi sangat terbuka! Jika Anda ingin memperbaiki bug, menambahkan fitur, atau meningkatkan dokumentasi, silakan fork repositori ini dan ajukan pull request.
 
-📄 Lisensi
+## 📄 Lisensi
 Proyek ini dilisensikan di bawah MIT License.
 
 
